@@ -10,11 +10,13 @@ public class Program {
 		int n = sc.nextInt();
 		int j = 7;
 		
-		for(int i = 1; i < n; i++) {
-			if(i % 2 != 0) {
+		for (int i = 1; i < n; i++) {
+			if (i % 2 != 0) {
 				System.out.printf("I=%d J=%d%n", i, j);
 			}
 			j--;
-		}	
+		}
+		
+		sc.close();
 	}
 }
