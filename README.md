@@ -1,5 +1,5 @@
 # Beecrowd
-### Beecrowd é um site de submissão para aprender a programar treinado
+### Beecrowd é um site de submissão para aprender a programar treinando
 
 ### Desde o começo do meu aprendizado, tem sito um aliado no aprendizado, recomendo para todos que querem aprender com a prática
 
